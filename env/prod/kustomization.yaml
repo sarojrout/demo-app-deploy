@@ -5,4 +5,4 @@ resources:
 - ../../base
 images:
 - name: ghcr.io/sarojrout/demo-app
-  newTag: d3d6b8b7d80bef3f02a70da021c282c38468a6f1
+  newTag: 2fa097bafe0c1b9d2d9e149ec1413a6bf1b5455f
