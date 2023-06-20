@@ -1,1 +1,3 @@
 image: ghcr.io/sarojrout/demo-app:2fa097bafe0c1b9d2d9e149ec1413a6bf1b5455f
+
+env: stage
